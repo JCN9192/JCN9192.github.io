@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "My first post"
+categories: site update
+---
+
+# New project
+
+Decided to start a new Unity project. I'm still on very rough planning stage but here are some "certain" things:
+- Local multiplayer.
+Players will only be able to play together if they are connected to the same WiFi network. Co-op is what I'm thinking as of now
+- Dungeon themed
+I'm not entirely positive but I'm leaning towards a dungeon game.
+- RPG
+This is something that I'm also not entirely positive about.
+- Mobile + PC compatible.
+Given the fact that I have Google Play Developer account where I can post my games on play store, why shouldn't I release this game on google play? I also want to make a PC compatible game since I haven't done one. I want to know how itch.io works as well. I heard that there is a devlog system but I don't think I'm going to post any devlogs until I publish the game.
+
+About the story, I might add basic story where player don't have to squeeze their head to understand. So real simple one.
+Again, I'm not 100% positive about anything that I mentioned. I'm still on very early rough planning stage. Still developing/creating my ideas.
+I'm not sure when this project will end but I'll try to complete quite soon and release public beta on both Google Play and itch.io.
+I'll keep you guys updated and make another post if my decision has made.
